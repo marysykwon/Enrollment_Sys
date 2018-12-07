@@ -1,7 +1,7 @@
 set echo on
 
 /* ---------------
-   Create table structure for IS 480 class
+   Create table structure
    --------------- */
 
 drop table enrollments;
